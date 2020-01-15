@@ -1,0 +1,18 @@
+body{
+    background-image:
+     url(https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1993&q=80);
+}
+
+.description-block{
+    text-align: center;
+}
+
+.jumbotron{
+    opacity: 50%;
+}
+
+.submit-btn{
+    width: 150px;
+    text-align: center;
+    margin:0 auto;
+}
